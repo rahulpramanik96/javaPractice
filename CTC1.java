@@ -83,7 +83,7 @@ public class CTC1 {
                   
                ob.leftRotate(a,k,a.size());
           }
-        
+        System.out.println("Yaaaa");
          
          
          
